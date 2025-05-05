@@ -1,0 +1,57 @@
+{
+  "identificazione": {
+    "genere": "Aesculus",
+    "specie_probabile": "Aesculus hippocastanum",
+    "nome_comune": "ippocastano",
+    "certezza_identificazione": "probabile",
+    "note_identificazione": "richiederebbe una visione ravvicinata delle foglie o dei frutti"
+  },
+  "foglie": {
+    "colore": "verde intenso",
+    "tipo": "composte palmate",
+    "disposizione": "regolare",
+    "aspetto": "sano"
+  },
+  "chioma": {
+    "forma": "tondeggiante",
+    "densita": "alta",
+    "copertura": "uniforme",
+    "diametro_stimato_m": {
+      "minimo": 4,
+      "massimo": 6
+    },
+    "sviluppo": "ben sviluppata"
+  },
+  "tronco": {
+    "colore": "grigio chiaro",
+    "posizione": "diritto",
+    "proporzioni": "proporzionato",
+    "condizione": "privo di segni evidenti di danni o patologie",
+    "ramificazione": {
+      "altezza_inizio": "a una certa altezza",
+      "caratteristica": "contribuendo a mantenere uno spazio libero alla base"
+    }
+  },
+  "radici": {
+    "visibilita": false,
+    "presenza_danni_superficie": false,
+    "note": "non visibili nella fotografia",
+    "valutazione_indiretta": "apparato radicale ben sviluppato ma non eccessivamente invasivo in superficie"
+  },
+  "contesto": {
+    "ambiente": "urbano",
+    "tipologia": null,
+    "integrazione_ambientale": "pienamente integrato"
+  },
+  "salute": {
+    "stato_generale": "ottimo",
+    "segni_negativi": {
+      "disseccamenti": false,
+      "ingiallimenti": false,
+      "diradamenti": false
+    },
+    "vigore": "vigoroso",
+    "manutenzione": null,
+    "integrazione_estetica": null
+  }
+}

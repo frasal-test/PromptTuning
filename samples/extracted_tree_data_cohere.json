@@ -1,0 +1,57 @@
+{
+  "identificazione": {
+    "genere": "Aesculus",
+    "specie_probabile": "Aesculus hippocastanum",
+    "nome_comune": "ippocastano",
+    "certezza_identificazione": "probabile",
+    "note_identificazione": "L'identificazione definitiva richiederebbe un esame ravvicinato di foglie o frutti."
+  },
+  "foglie": {
+    "colore": "verde intenso",
+    "tipo": "composte palmate",
+    "disposizione": "regolare",
+    "aspetto": "sano"
+  },
+  "chioma": {
+    "forma": "tondeggiante",
+    "densita": "alta",
+    "copertura": "uniforme",
+    "diametro_stimato_m": {
+      "minimo": 4,
+      "massimo": 6
+    },
+    "sviluppo": "maturo"
+  },
+  "tronco": {
+    "colore": "grigio chiaro",
+    "posizione": "eretto",
+    "proporzioni": "proporzionato",
+    "condizione": "sano",
+    "ramificazione": {
+      "altezza_inizio": "alta",
+      "caratteristica": "Spazio libero alla base, adatto per aree pubbliche."
+    }
+  },
+  "radici": {
+    "visibilit\u00e0": false,
+    "presenza_danni_superficie": false,
+    "note": "Nessun sollevamento del terreno o danni al manto erboso circostante.",
+    "valutazione_indiretta": "Apparato radicale ben sviluppato ma non invasivo in superficie."
+  },
+  "contesto": {
+    "ambiente": "urbano",
+    "tipologia": "parco pubblico",
+    "integrazione_ambientale": "Integrato nell'ambiente urbano."
+  },
+  "salute": {
+    "stato_generale": "ottimo",
+    "segni_negativi": {
+      "disseccamenti": false,
+      "ingiallimenti": false,
+      "diradamenti": false
+    },
+    "vigore": "alto",
+    "manutenzione": "buona",
+    "integrazione_estetica": "Ben mantenuto e vigoroso."
+  }
+}
