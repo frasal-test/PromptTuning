@@ -41,7 +41,7 @@
   "contesto": {
     "ambiente": "urbano",
     "tipologia": "parco pubblico",
-    "integrazione_ambientale": "Integrato nell'ambiente urbano."
+    "integrazione_ambientale": "L'albero \u00e8 pienamente integrato nell'ambiente urbano."
   },
   "salute": {
     "stato_generale": "ottimo",
@@ -52,6 +52,6 @@
     },
     "vigore": "alto",
     "manutenzione": "buona",
-    "integrazione_estetica": "Ben mantenuto e vigoroso."
+    "integrazione_estetica": "L'albero \u00e8 ben mantenuto e presenta un aspetto vigoroso."
   }
 }
