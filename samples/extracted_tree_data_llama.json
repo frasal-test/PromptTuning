@@ -24,19 +24,19 @@
   },
   "tronco": {
     "colore": "grigio chiaro",
-    "posizione": "diritto",
+    "posizione": "eretto",
     "proporzioni": "proporzionato",
     "condizione": "privo di segni evidenti di danni o patologie",
     "ramificazione": {
-      "altezza_inizio": "a una certa altezza",
-      "caratteristica": "contribuendo a mantenere uno spazio libero alla base"
+      "altezza_inizio": "media",
+      "caratteristica": "favorita negli esemplari collocati in aree pubbliche"
     }
   },
   "radici": {
     "visibilita": false,
     "presenza_danni_superficie": false,
-    "note": "non visibili nella fotografia",
-    "valutazione_indiretta": "apparato radicale ben sviluppato ma non eccessivamente invasivo in superficie"
+    "note": "non visibili",
+    "valutazione_indiretta": "apparato radicale ben sviluppato ma non eccessivamente invasivo"
   },
   "contesto": {
     "ambiente": "urbano",
@@ -50,8 +50,8 @@
       "ingiallimenti": false,
       "diradamenti": false
     },
-    "vigore": "vigoroso",
-    "manutenzione": null,
+    "vigore": "alto",
+    "manutenzione": "buona",
     "integrazione_estetica": null
   }
 }
